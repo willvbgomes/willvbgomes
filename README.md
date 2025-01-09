@@ -4,7 +4,7 @@
 
 Oi, eu sou o William! Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Mackenzie. Minha jornada no desenvolvimento web começou com Node.js, onde descobri minha paixão por programação. Depois disso, mergulhei no React, buscando sempre melhorar a qualidade das aplicações que desenvolvo. Estou em constante aprendizado e em busca de novas oportunidades para crescer como desenvolvedor 🚀
 
-![Linkedin](https://img.shields.io/badge/willvbgomes-61dafb?style=social&logo=linkedin&labelColor=000&link=https://linkedin.com/in/willvbgomes)
+![Linkedin](https://img.shields.io/badge/willvbgomes-fff?style=plastic&label=LinkedIn&labelColor=0077b5)
 
 ## Linguagens e Tecnologias 🖥️
 
@@ -16,7 +16,9 @@ Oi, eu sou o William! Sou formado em Análise e Desenvolvimento de Sistemas pela
 ![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&labelColor=000) &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572b6?style=for-the-badge&logo=css3&labelColor=000&logoColor=1572b6) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&labelColor=000) &nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&labelColor=000) &nbsp;
 ![Git](https://img.shields.io/badge/Git-e34f26?style=for-the-badge&logo=git&labelColor=000) &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&labelColor=000) &nbsp;
 
 ## Estatísticas 📈
 
